@@ -1,0 +1,22 @@
+.cat{
+    height: 100vh;
+    background-color: slategrey;
+    color: black;
+}
+
+.nav{
+    color: black;
+}
+
+img{
+    align-items: center;
+}
+
+.lien{
+    color: black;
+    text-decoration: none;
+}
+
+.lien:hover{
+    color: red;
+}
